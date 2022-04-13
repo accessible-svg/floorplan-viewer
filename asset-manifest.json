@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/chi/static/css/main.8393f786.chunk.css",
-    "main.js": "/chi/static/js/main.304b5e59.chunk.js",
-    "main.js.map": "/chi/static/js/main.304b5e59.chunk.js.map",
-    "runtime-main.js": "/chi/static/js/runtime-main.c1670f1d.js",
-    "runtime-main.js.map": "/chi/static/js/runtime-main.c1670f1d.js.map",
-    "static/js/2.b1d6c4a5.chunk.js": "/chi/static/js/2.b1d6c4a5.chunk.js",
-    "static/js/2.b1d6c4a5.chunk.js.map": "/chi/static/js/2.b1d6c4a5.chunk.js.map",
-    "static/js/3.11d9649a.chunk.js": "/chi/static/js/3.11d9649a.chunk.js",
-    "static/js/3.11d9649a.chunk.js.map": "/chi/static/js/3.11d9649a.chunk.js.map",
-    "index.html": "/chi/index.html",
-    "static/css/main.8393f786.chunk.css.map": "/chi/static/css/main.8393f786.chunk.css.map",
-    "static/js/2.b1d6c4a5.chunk.js.LICENSE.txt": "/chi/static/js/2.b1d6c4a5.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/chi/static/media/OpenDyslexicThree-Regular.e83fb3b5.woff",
-    "static/media/logo.6ce24c58.svg": "/chi/static/media/logo.6ce24c58.svg"
+    "main.css": "/floorplan-viewer/static/css/main.5e7649f6.chunk.css",
+    "main.js": "/floorplan-viewer/static/js/main.5fee19f3.chunk.js",
+    "main.js.map": "/floorplan-viewer/static/js/main.5fee19f3.chunk.js.map",
+    "runtime-main.js": "/floorplan-viewer/static/js/runtime-main.36cab5b8.js",
+    "runtime-main.js.map": "/floorplan-viewer/static/js/runtime-main.36cab5b8.js.map",
+    "static/js/2.d13f78eb.chunk.js": "/floorplan-viewer/static/js/2.d13f78eb.chunk.js",
+    "static/js/2.d13f78eb.chunk.js.map": "/floorplan-viewer/static/js/2.d13f78eb.chunk.js.map",
+    "static/js/3.0e821767.chunk.js": "/floorplan-viewer/static/js/3.0e821767.chunk.js",
+    "static/js/3.0e821767.chunk.js.map": "/floorplan-viewer/static/js/3.0e821767.chunk.js.map",
+    "index.html": "/floorplan-viewer/index.html",
+    "static/css/main.5e7649f6.chunk.css.map": "/floorplan-viewer/static/css/main.5e7649f6.chunk.css.map",
+    "static/js/2.d13f78eb.chunk.js.LICENSE.txt": "/floorplan-viewer/static/js/2.d13f78eb.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/floorplan-viewer/static/media/OpenDyslexicThree-Regular.e83fb3b5.woff",
+    "static/media/logo.6ce24c58.svg": "/floorplan-viewer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1670f1d.js",
-    "static/js/2.b1d6c4a5.chunk.js",
-    "static/css/main.8393f786.chunk.css",
-    "static/js/main.304b5e59.chunk.js"
+    "static/js/runtime-main.36cab5b8.js",
+    "static/js/2.d13f78eb.chunk.js",
+    "static/css/main.5e7649f6.chunk.css",
+    "static/js/main.5fee19f3.chunk.js"
   ]
 }
