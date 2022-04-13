@@ -1,0 +1,11 @@
+.shortcuts {
+  display: flex;
+  padding: 1rem;
+  flex-direction: column;
+  justify-content: center;
+
+  & button {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+}
