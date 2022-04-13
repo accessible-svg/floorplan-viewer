@@ -1,6 +1,6 @@
 {
-  "homepage": "https://accessible-svg-floorplan.github.io/chi",
-  "name": "chi",
+  "homepage": "https://accessible-svg.github.io/floorplan-viewer",
+  "name": "floorplan-viewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
