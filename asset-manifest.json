@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chi/static/css/main.8393f786.chunk.css",
+    "main.js": "/chi/static/js/main.304b5e59.chunk.js",
+    "main.js.map": "/chi/static/js/main.304b5e59.chunk.js.map",
+    "runtime-main.js": "/chi/static/js/runtime-main.c1670f1d.js",
+    "runtime-main.js.map": "/chi/static/js/runtime-main.c1670f1d.js.map",
+    "static/js/2.b1d6c4a5.chunk.js": "/chi/static/js/2.b1d6c4a5.chunk.js",
+    "static/js/2.b1d6c4a5.chunk.js.map": "/chi/static/js/2.b1d6c4a5.chunk.js.map",
+    "static/js/3.11d9649a.chunk.js": "/chi/static/js/3.11d9649a.chunk.js",
+    "static/js/3.11d9649a.chunk.js.map": "/chi/static/js/3.11d9649a.chunk.js.map",
+    "index.html": "/chi/index.html",
+    "static/css/main.8393f786.chunk.css.map": "/chi/static/css/main.8393f786.chunk.css.map",
+    "static/js/2.b1d6c4a5.chunk.js.LICENSE.txt": "/chi/static/js/2.b1d6c4a5.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/chi/static/media/OpenDyslexicThree-Regular.e83fb3b5.woff",
+    "static/media/logo.6ce24c58.svg": "/chi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1670f1d.js",
+    "static/js/2.b1d6c4a5.chunk.js",
+    "static/css/main.8393f786.chunk.css",
+    "static/js/main.304b5e59.chunk.js"
+  ]
+}
